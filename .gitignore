@@ -1,0 +1,31 @@
+# Dependências do Node
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+.env.*
+
+# Diretórios do sistema/macOS
+.DS_Store
+
+# Diretórios do editor
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Arquivos de lock antigos
+package-lock.json.save
+
+# Outros
+*.local 
